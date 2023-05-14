@@ -1,0 +1,696 @@
+* {
+	padding: 0px;
+	
+}
+body {
+	background:#1F1F1F;
+}
+main {
+	width: 1366px;
+height: 3353px;
+background: #1F1F1F;
+}
+.top {
+	width: 1100px;
+height: 35px;
+display: flex;
+margin-left:133px;
+margin-top:29px;
+}
+.font {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #FFFFFF;
+margin-top:1px;
+}
+.top_1 {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+color: #FFFFFF;
+width: 47px;
+height: 22px;
+margin-left:720.1px;
+padding-top:6px;
+}
+.top_2 {
+	width: 58px;
+height: 22px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #ADADAD;
+padding-top:6px;
+margin-left:18px;
+}
+.top_3 {
+	width: 61px;
+height: 22px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #ADADAD;
+padding-top:6px;
+margin-left:18px;
+}
+.top_4 {
+	width:50px;
+height: 22px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #ADADAD;
+padding-top:6px;
+margin-left:18px;
+}
+.low {
+	width: 1233px;
+height: 451px;
+margin-left:133px;
+margin-top:62px;
+}
+.text_1 {
+	width: 586px;
+height: 130px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 65px;
+margin-top:76px;
+color: #FFFFFF;
+}
+.text_2 {
+	width: 534px;
+height: 56px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #B4B4B4;
+margin-top:43px;
+}
+.daq {
+width: 193px;
+height: 49px;
+background: #313131;
+border-radius: 7px;
+margin-top:29px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+gap: 10px;
+
+}
+span {
+	width: 129px;
+height: 25px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+color: #DEDEDE;
+margin-left:32px;
+margin-top:12px;
+}
+.img_1 {
+	width: 575px;
+height: 451px;
+position: relative;
+left:653px;
+bottom:399px;
+}
+.daq_1 {
+	display: flex;
+flex-direction: row;
+align-items: flex-start;
+gap: 10px;
+isolation: isolate;
+width: 677px;
+height: 135px;
+position:relative;
+left:550px;
+bottom:485px;
+background: #313131;
+border-radius: 8px;
+}
+.qwe_1 {
+	width: 64px;
+height: 49px;
+margin-left:22px;
+margin-top:30px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+}
+.qwe_2 { 
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+text-transform: uppercase;
+color: #B3B3B3;
+position:relative;
+right:34px;
+width:74px;
+height:25px;
+}
+.qwe_3 {
+	margin-top:30px;
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+margin-left:51px;
+}
+.qwe_4 {
+	position:relative;
+	right:33px;
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+text-transform: uppercase;
+color: #B3B3B3;
+}
+.qwe_5 {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+margin-top:30px;
+}
+.qwe_6 {
+	position:relative;
+	right:32px;
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+text-align: center;
+text-transform: uppercase;
+
+color: #B3B3B3;
+}
+.img_2 {
+	width: 148px;
+height: 180px;
+margin-left:30px;
+margin-top:-75px;
+}
+.cont {
+	width: 1366px;
+height: 142px;
+position:relative;
+bottom:450px;
+right:133px;
+}
+.img_3 {
+	width: 719px;
+height: 142px;
+}
+.conteiner {
+	width: 1365px;
+height: 664px;
+position:relative;
+right:133px;
+bottom:400px;
+}
+.wer {
+	width: 1365px;
+height: 49px;
+}
+.poi {
+width: 136px;
+height: 49px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+margin-left:618.5px;
+margin-top:-2px;
+}
+.cont_3 {
+	width: 1097px;
+height: 496px;
+margin-top:13px;
+margin-left:133px;
+}
+.cont_4 {
+width: 1365px;
+height: 702px;
+position:relative;
+bottom:570px;
+right:133px;
+}
+.cont_5 {
+	
+width: 1222px;
+height: 322px;
+position:relative;
+bottom:410px;
+}
+.text_31 {
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 186.448px;
+line-height: 322px;
+margin-top:0px;
+text-transform: uppercase;
+}
+.text_32 {
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+margin-top:0px;
+color: #FFFFFF;
+padding-left:531px;
+}
+.cont_7 {
+	width: 1105px;
+height: 605px;
+margin-left:133px;
+margin-top:48px;
+}
+.img_5 {
+	width: 235px;
+height: 602px;
+position:relative;
+left:870px;
+bottom:608px;
+}
+.cont_9 {
+	width: 739px;
+height: 180px;
+margin-top:0px;
+display: flex;
+flex-direction: column;
+}
+.cont_10 {
+	width: 739px;
+height: 205px;
+margin-top:17px;
+}
+.cont_11 {
+	width: 739px;
+height: 180px;
+margin-top:17px;
+}
+.img_14 {
+	width: 183px;
+height: 180px;
+position:relative;
+bottom:175px;
+}
+.text_43 {
+width: 185px;
+height: 33px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 33px;
+position:relative;
+left:200px;
+margin-top:18px;
+color: #FFFFFF;
+}
+.xza {
+	width: 22px;
+height: 25px;
+margin-left: 220px;
+position:relative;
+bottom:35px;
+right:50px;
+
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+color: #898989;
+}
+.text_42 {
+	width: 516px;
+height: 75px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #9B9B9B;
+margin-left:200px;
+margin-top:9px;
+}
+.text_123 {
+	width: 59px;
+height: 25px;
+position:relative;
+bottom:20px;
+right:33px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #656565;
+}
+.text_98 {
+width: 119px;
+height: 33px;
+left: 20px;
+top: 20px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 33px;
+color: #FFFFFF;
+position:relative;
+left:203px;
+margin-top:-200px;
+}
+.text_24 {
+	width: 22px;
+height: 25px;
+left: 220px;
+top: 24px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+color: #898989;
+position:relative;
+left:139px;
+top:-33px;
+}
+.text_90 {
+	width: 43px;
+height: 25px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #656565;
+margin-top:23px;
+position:relative;
+right:85px;
+}
+.text_99 {
+	width: 516px;
+height: 100px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #9B9B9B;
+margin-left:202px;
+margin-top:50px;
+}
+.text_88 {
+	width: 350px;
+height: 33px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 33px;
+color: #FFFFFF;
+position:relative;
+left:203px;
+margin-top:-170px;
+}
+.text_77 {
+	width: 22px;
+height: 25px;
+position:relative;
+right:11px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+color: #898989;
+}
+.text_66 {
+	width: 51px;
+height: 25px;
+position:relative;
+top:29px;
+right:241px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #656565;
+}
+.text_55 {
+	width: 516px;
+height: 75px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+color: #9B9B9B;
+margin-left:202px;
+margin-top:29px;
+}
+.cont_9 {
+	background:#292727;
+}
+.cont_10 {
+	background:#292727;
+}
+.cont_11 {
+	background:#292727;
+}
+.cont_20 {
+	width: 1365px;
+height: 524px;
+position:relative;
+right:134px;
+bottom:570px;
+}
+.cont_21 {
+	width: 1365px;
+height: 376px;
+}
+.text_100 {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 186.448px;
+line-height: 322px;
+margin-top:0px;
+text-transform: uppercase;
+margin-left:217px;
+padding-left:20px;
+}
+.text_101 {
+width: 236px;
+height: 49px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 49px;
+color: #FFFFFF;
+position:relative;
+left:560px;
+bottom:370px;
+}
+.img_909 {
+	margin-left:136px;
+	margin-top:-120px;
+}
+.img_910 {
+	margin-left:16px;
+}
+.img_911 {
+	margin-left:16px;
+}
+.cont_321 {
+	width: 130px;
+height: 49px;
+margin-left:150px;
+background: #313131;
+border-radius: 7px;
+margin-top:13px;
+}
+.text_423 {
+width: 66px;
+height: 25px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 25px;
+color: #DEDEDE;
+margin-left:33px;
+position:relative;
+top:11px;
+}
+.end {
+	width: 696px;
+height: 143px;
+margin-top:-351px;
+}
+.text_end {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #FFFFFF;
+margin-top:0px;
+}
+.text_998 {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+width:341px;
+height:50px;
+margin-top:20px;
+color: #949494;
+}
+.text_997 {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+color: #FFFFFF;
+margin-left:450px;
+margin-top:-128px;
+}
+.rty {
+width: 58px;
+height: 22px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+margin-left:450px;
+position:relative;
+bottom:3px;
+}
+.rty_1 {
+		width: 58px;
+height: 22px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+margin-left:450px;
+position:relative;
+bottom:3px;
+}
+.rty_2 {
+width: 58px;
+height: 22px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+margin-left:450px;
+position:relative;
+bottom:3px;
+}
+.asd {
+	font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 27px;
+margin-left:605px;
+margin-top:-163px;
+color: #FFFFFF;
+}
+.plm {
+width: 58px;
+height: 22px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+margin-left:605px;
+
+}
+.plm_1 {
+width: 58px;
+height: 22px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+margin-left:605px;
+
+}
+.plm_2 {
+width: 58px;
+height: 22px;
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+color: #929292;
+margin-left:605px;
+
+}
